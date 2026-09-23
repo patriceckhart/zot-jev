@@ -1,0 +1,9 @@
+{
+  "name": "jev",
+  "version": "1.0.0",
+  "exec": "go",
+  "args": ["run", "."],
+  "language": "go",
+  "description": "Jev (TypeSafe System One) judgments for zot: tool-call guard, assistant-message review, jev_judge tool, /jev panel.",
+  "enabled": true
+}
